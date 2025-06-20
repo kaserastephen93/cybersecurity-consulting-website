@@ -32,10 +32,10 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
+              <h1 className="text-5xl font-bold tracking-tight text-gray-900 sm:text-6xl">
                 Protect Your Business from Cyber Threats
               </h1>
-              <p className="text-xl text-gray-600 mb-8">
+              <p className="mt-6 text-lg leading-8 text-gray-600">
                 Expert cybersecurity consulting for small and medium businesses. 
                 We make security simple, affordable, and effective.
               </p>
@@ -46,7 +46,7 @@ function App() {
                 </Button>
                 <Button variant="outline" size="lg">
                   <Phone className="mr-2 h-5 w-5" />
-                  Call Now: (555) 123-4567
+                  Call Now: +254705618275
                 </Button>
               </div>
               <div className="mt-8 flex items-center space-x-6">
